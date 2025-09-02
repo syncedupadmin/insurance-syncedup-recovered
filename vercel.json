@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "routes": [
+    { "src": "/api/(.*)", "dest": "https://insurance-syncedup-fcwmcepfu-nicks-projects-f40381ea.vercel.app/api/$1" }
+  ],
+  "headers": [
+    { "source": "/(.*)", "headers": [
+      { "key": "Cache-Control", "value": "public, max-age=0, must-revalidate" }
+    ] }
+  ]
+}
