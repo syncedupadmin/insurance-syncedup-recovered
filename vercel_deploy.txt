@@ -1,0 +1,10 @@
+Vercel CLI 46.1.1
+Retrieving project…
+Deploying nicks-projects-f40381ea/recovered_source
+Uploading [--------------------] (0.0B/561B)
+Uploading [====================] (561.0B/561B)
+Inspect: https://vercel.com/nicks-projects-f40381ea/recovered_source/97RjRT3ZDGQADKsqmSTJgVBM5pzV [1s]
+Production: https://recoveredsource-2fwmwwfxg-nicks-projects-f40381ea.vercel.app [1s]
+https://recoveredsource-2fwmwwfxg-nicks-projects-f40381ea.vercel.appQueued
+Building
+Completing
